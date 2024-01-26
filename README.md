@@ -14,6 +14,8 @@ The Dog Breed Identifier is a Python program that utilizes a pre-trained ResNet5
   - A ResNet50V2 model pre-trained on ImageNet is used.
   - The top layers of the model are customized for dog breed classification.
   - Training occurs over 20 epochs with callbacks for reducing learning rate and early stopping.
+![image](https://github.com/tawsifrm/Dog-Breed-Identifier-OpenCV/assets/121325051/e6457378-e79d-4b11-8824-6dade7ddec1c)
+
 - **Prediction:**
   - An image of a dog (e.g., 'germanshepherd.jpg') can be classified into its breed using this trained model.
 
