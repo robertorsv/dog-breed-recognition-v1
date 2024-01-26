@@ -28,7 +28,17 @@ Below are the files included in this project:
 - `train`: A folder that contains the training images of 60 dog breeds.
 
 ## Running the Program
-Ensure you have all required libraries installed. You can run the program using:
+Ensure you have all required libraries installed. 
+The following Python libraries are used in this project. Make sure to use the latest version of each for compatibility:
+- TensorFlow (2.2 or higher)
+- Keras (if TensorFlow version is below 2.2, install Keras separately)
+- OpenCV
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+You can run the program using:
 ```bash
 python dog-breed-identification.py
 ```
