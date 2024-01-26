@@ -29,8 +29,12 @@ Below are the files included in this project:
 Ensure you have all required libraries installed. You can run the program using:
 ```bash
 python dog-breed-identification.py
+```
 
 This will train the model and predict the breed of a specified dog image. You can change the image path in the code to test different images. The output will print the predicted breed name for the image. For example:
 ```python
 Predicted Breed for this Dog is : ['leonberg']
-![image](https://github.com/tawsifrm/Dog-Breed-Identifier-OpenCV/assets/121325051/69ae4eef-86e3-41a3-ba90-8e70431a87ec)
+```
+
+![image](https://github.com/tawsifrm/Dog-Breed-Identifier-OpenCV/assets/121325051/7d4f25e2-d0b6-4f9b-8f94-d3f87da9d403)
+
