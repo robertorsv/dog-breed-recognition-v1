@@ -22,7 +22,7 @@ Below are the files included in this project:
 - `dog-breed-identification.py`: The main Python script that contains the code for data preparation, model training, and prediction.
 - `labels.csv`: A CSV file that contains the mapping of image IDs to breed names.
 - `model`: A folder that contains the saved model file (`model`) and the weights file (`model.weights`).
-- `test`: A folder that contains three test images of different dog breeds (`germanshepherd.jpg`, `leonberg.jpg`, `rottweiler.jpg`).
+- `test`: A folder that contains three test images of different dog breeds.
 - `train`: A folder that contains the training images of 60 dog breeds.
 
 ## Running the Program
