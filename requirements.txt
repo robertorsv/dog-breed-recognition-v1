@@ -1,0 +1,7 @@
+TensorFlow (2.2 or higher)
+Keras (if TensorFlow version is below 2.2, install Keras separately)
+OpenCV
+Scikit-learn
+NumPy
+Pandas
+Matplotlib
